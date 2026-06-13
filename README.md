@@ -3,7 +3,7 @@
 A powerful, self-contained HTML/JS viewer for DeepSeek chat exports (`conversations.json`).  
 Works with **100+ MB files** – virtual scrolling, full‑text search, conversation/message navigation, copy to clipboard, and auto‑load of previously used file.
 
-![Screenshot placeholder](screenshot.png) <!-- optional -->
+<img width="1327" height="940" alt="DeepSeek Archive Viewer Screenshot" src="https://github.com/user-attachments/assets/809f8aa3-6661-4a2a-9bc9-02eb59a76a90" />
 
 ## Features
 
